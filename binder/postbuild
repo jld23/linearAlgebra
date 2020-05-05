@@ -4,3 +4,6 @@ jupyter lab clean
 jupyter labextension install @jupyterlab/toc
 jupyter labextension install @aquirdturtle/collapsible_headings
 jupyter labextension install @jupyterlab/github
+
+jupyter lab build
+

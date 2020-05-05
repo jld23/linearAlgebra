@@ -5,11 +5,12 @@ dependencies:
   - python
   - pip
   - pip:
+    - jupyterlab
     - nbgitpuller
+    - jupyterlab_github
     - sphinx-gallery
     - pandas
     - matplotlib
-    - jupyterlab
     - nbgrader
     - seaborn
     - numpy
