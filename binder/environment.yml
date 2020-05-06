@@ -14,3 +14,5 @@ dependencies:
     - nbgrader
     - seaborn
     - numpy
+    - scikit-learn
+    - graphviz 
