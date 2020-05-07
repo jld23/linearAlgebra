@@ -11,3 +11,6 @@ scikit-learn
 graphviz 
 pandas_profiling
 xeus-python
+sas_kernel
+jinja2
+requests
