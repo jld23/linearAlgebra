@@ -16,3 +16,4 @@ dependencies:
     - numpy
     - scikit-learn
     - graphviz 
+    - pandas_profiling
