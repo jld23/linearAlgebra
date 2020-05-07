@@ -1,0 +1,13 @@
+jupyterlab
+nbgitpuller
+jupyterlab_github
+sphinx-gallery
+pandas
+matplotlib
+nbgrader
+seaborn
+numpy
+scikit-learn
+graphviz 
+pandas_profiling
+xeus-python
