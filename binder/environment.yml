@@ -17,3 +17,4 @@ dependencies:
     - scikit-learn
     - graphviz 
     - pandas_profiling
+    - xeus-python
