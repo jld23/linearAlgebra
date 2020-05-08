@@ -1,9 +1,25 @@
-# linearAlgebra
+# Exec Ed lab exercises
 
-Lab exercises for linear algebra course for Exec Ed at NCSU
+Lab exercises for Exec Ed courses at NCSU
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/handsOnP1.ipynb)
+## Introduction to Machine Learning and Predictive Modeling
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab)
+
+
+## Introduction to Probability and Statistics
+
+
+
+## Introduction to Data Literacy
+
+## Introduction to Data Vizualization
+
+## Introduction to Data Science
+
+## Business Impact of Data Science
+
+## Introduction to Structured and Unstructured Data
 
 ## Binder link for Neural Network exercise
 

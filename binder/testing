@@ -1,0 +1,9 @@
+#!/bin/bash
+
+jupyter-repo2docker \
+    --no-run \
+    --user-name=jovyan \
+    --image=execed1 \
+    https://github.com/jld23/linearAlgebra.git
+
+# /home/dsw/source/github/linearAlgebra
