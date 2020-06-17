@@ -16,6 +16,6 @@ dependencies:
     - seaborn
     - numpy
     - scikit-learn
+    - scikit-plot
     - graphviz 
     - pandas_profiling
-    - xeus-python
