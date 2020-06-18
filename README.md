@@ -6,14 +6,11 @@ Lab exercises for Exec Ed courses at NCSU
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab)
 
-
 ## Introduction to Probability and Statistics
-
-
 
 ## Introduction to Data Literacy
 
-## Introduction to Data Vizualization
+## Introduction to Data Visualization
 
 ## Introduction to Data Science
 
