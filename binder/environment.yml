@@ -19,3 +19,5 @@ dependencies:
     - scikit-plot
     - graphviz 
     - pandas_profiling
+    - gensim
+    - nltk
