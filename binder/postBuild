@@ -11,3 +11,5 @@ jupyter labextension install @jupyterlab/debugger
 jupyter labextension update --all
 jupyter lab build
 
+# Import the workspace into JupyterLab
+jupyter lab workspaces import binder/workspace.json
