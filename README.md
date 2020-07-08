@@ -18,7 +18,7 @@ Lab exercises for Exec Ed courses at NCSU
 
 ## Introduction to Structured and Unstructured Data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introStructUnstruct/word2vec.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introStructUnstruct/nltk_exercise.ipynb)
 
 introStructUnstruct/word2vec.ipynb
 ## Binder link for Neural Network exercise
