@@ -20,11 +20,13 @@ Lab exercises for Exec Ed courses at NCSU
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introStructUnstruct/nltk_exercise.ipynb)
 
-introStructUnstruct/word2vec.ipynb
 ## Binder link for Neural Network exercise
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/neuralNetwork.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introDS_principals/vehicle_profile.html)
 
-introDS_principals/vehicle_profile.html
+
+## Exercise Solutions
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/solutions/nltk_exercise_solution.ipynb)
