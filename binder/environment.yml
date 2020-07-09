@@ -5,6 +5,9 @@ dependencies:
   - python
   - pip
   - nodejs
+  - texlive-xetex 
+  - texlive-fonts-recommended 
+  - texlive-generic-recommended
   - pip:
     - jupyterlab
     - nbgitpuller
