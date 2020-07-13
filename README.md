@@ -20,12 +20,17 @@ Lab exercises for Exec Ed courses at NCSU
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introStructUnstruct/nltk_exercise.ipynb)
 
-## Binder link for Neural Network exercise
+## Introduction to Modeling and Machine Learning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/neuralNetwork.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introMachineLearning/carsML.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introDS_principals/vehicle_profile.html)
+### Machine Learning Example notebooks (Diabetes data)
 
+[![Binder](https://mybinder.org/badge_logo.svg) Neural Network](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introMachineLearning/neuralNetwork_diabetes.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg) Regression](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introMachineLearning/regression_diabetes.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg) Tree](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/introMachineLearning/tree_diabetes.ipynb)
 
 ## Exercise Solutions
 
