@@ -12,7 +12,7 @@ jupyter labextension install @aquirdturtle/collapsible_headings
 # jupyter labextension install @jupyterlab/github
 # jupyter labextension install @jupyterlab/debugger
 
-jupyter labextension install @jupyterlab/latex@0.6.1
+#jupyter labextension install @jupyterlab/latex@0.6.1
 
 jupyter labextension update --all
 jupyter lab build

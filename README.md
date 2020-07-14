@@ -34,4 +34,12 @@ Lab exercises for Exec Ed courses at NCSU
 
 ## Exercise Solutions
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/solutions/nltk_exercise_solution.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg) Unstructured](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/solutions/nltk_exercise_solution.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg) Modeling and ML](https://mybinder.org/v2/gh/jld23/linearAlgebra.git/master?urlpath=lab/tree/solutions/carsML_solution.ipynb) 
+
+
+# To build binder locally 
+
+Use this command from the directory `jupyter-repo2docker .`
