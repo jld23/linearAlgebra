@@ -8,12 +8,12 @@ dependencies:
   - pip:
     - jupyterlab
     - nbgitpuller
-    - jupyterlab_github
-    - sphinx-gallery
+#    - jupyterlab_github
+#    - sphinx-gallery
     - pandas
     - matplotlib
-    - nbgrader
-    - seaborn
+#    - nbgrader
+#    - seaborn
     - numpy
     - scikit-learn
     - scikit-plot
@@ -21,6 +21,6 @@ dependencies:
     - pandas_profiling
     - gensim
     - nltk
-    - jupyterlab_latex
+#    - jupyterlab_latex
     - feather-format
     - statsmodels

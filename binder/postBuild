@@ -6,9 +6,9 @@ set -ex
 # python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
 
 
-jupyter lab clean
-jupyter labextension install @jupyterlab/toc
-jupyter labextension install @aquirdturtle/collapsible_headings
+# jupyter lab clean
+# jupyter labextension install @jupyterlab/toc
+# jupyter labextension install @aquirdturtle/collapsible_headings
 # jupyter labextension install @jupyterlab/github
 # jupyter labextension install @jupyterlab/debugger
 
