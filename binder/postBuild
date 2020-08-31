@@ -3,19 +3,19 @@
 set -ex
 
 # run matplotlib once to generate the font cache
-python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
+# python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
 
 
 # jupyter lab clean
-jupyter labextension install @jupyterlab/toc
-jupyter labextension install @aquirdturtle/collapsible_headings
+# jupyter labextension install @jupyterlab/toc
+# jupyter labextension install @aquirdturtle/collapsible_headings
 # jupyter labextension install @jupyterlab/github
 # jupyter labextension install @jupyterlab/debugger
 
 #jupyter labextension install @jupyterlab/latex@0.6.1
 
 #jupyter labextension update --all
-jupyter lab build --dev-build=False --minimize=False
+# jupyter lab build --dev-build=False --minimize=False
 
 # Import the workspace into JupyterLab
 jupyter lab workspaces import binder/workspace.json
