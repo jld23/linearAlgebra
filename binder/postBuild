@@ -7,8 +7,8 @@ python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, a
 
 
 jupyter lab clean
-jupyter labextension install @jupyterlab/toc
-jupyter labextension install @aquirdturtle/collapsible_headings
+# jupyter labextension install @jupyterlab/toc
+# jupyter labextension install @aquirdturtle/collapsible_headings
 # jupyter labextension install @jupyterlab/github
 # jupyter labextension install @jupyterlab/debugger
 
